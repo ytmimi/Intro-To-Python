@@ -12,7 +12,7 @@
 * By the end of this course you'll hopefully have the skills needed to build custom tools to help you with your day to day work.
 
 
-##Syllabus
+## Syllabus
 
 ### Week 1) The basics
 	
