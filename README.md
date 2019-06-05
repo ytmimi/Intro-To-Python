@@ -33,7 +33,7 @@
 	* [Lists and Tuples](https://realpython.com/python-lists-tuples/)
 	* [Dictionaries](https://realpython.com/python-dicts/)
 	* [Sets](https://realpython.com/python-sets/)
-	* [PEP8 style guide](https://realpython.com/python-pep8/) 
+	* [PEP8 style guide](https://realpython.com/python-pep8/)
 
 ### Week 2) The basics (cont)
 	
@@ -74,7 +74,7 @@
 	* Basic visualizations
 
 * Helpful Links
-	* (Matplotlib Guide)[https://realpython.com/python-matplotlib-guide/]
+	* [Matplotlib Guide](https://realpython.com/python-matplotlib-guide/)
 
 ### Week 6) Intermediate Topics 
 	
@@ -83,10 +83,11 @@
 	* Context Managers
 
 * Helpful Links
-	* (Closures)[https://www.youtube.com/watch?v=swU3c34d2NQ]
-	* (First Class Functions)[https://www.youtube.com/watch?v=kr0mpwqttM0]
-	* (Decorators)[https://www.youtube.com/watch?v=FsAPt_9Bf3U]
-	* (Context Managers)[https://www.youtube.com/watch?v=-aKFBoZpiqA&t=513s]
+
+	* [Closures](https://www.youtube.com/watch?v=swU3c34d2NQ)
+	* [First Class Functions](https://www.youtube.com/watch?v=kr0mpwqttM0)
+	* [Decorators](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+	* [Context Managers](https://www.youtube.com/watch?v=-aKFBoZpiqA&t=513s)
 
 ### Week 7) Interacting With The Web
 	
@@ -115,7 +116,7 @@
 	* Go Over Capstone Project Ideas
 
 * Helpful Links
-	* (Sending Emails)[https://realpython.com/python-send-email/]
+	* [Sending Emails](https://realpython.com/python-send-email/)
 	
 ### Week 10) Final Class
 	
@@ -124,8 +125,8 @@
 	* Next Steps
 
 ## Additional Resources:
-* (Pycon Talks)[https://realpython.com/must-watch-pycon-talks/]
-* (Python Books)[https://realpython.com/best-python-books/]
+* [Pycon Talks](https://realpython.com/must-watch-pycon-talks/)
+* [Python Books](https://realpython.com/best-python-books/)
 
 
 
